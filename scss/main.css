@@ -12035,4 +12035,15 @@ p {
   transform: translate(-50%, -50%);
   opacity: 0;
   transition: all 0.3s;
+}
+
+.nosmenu h2, .nosmenu .h2 {
+  text-align: center;
+}
+.nosmenu h5, .nosmenu .h5 {
+  font-weight: bold;
+}
+.nosmenu p {
+  font-style: italic;
+  text-align: justify;
 }/*# sourceMappingURL=main.css.map */
